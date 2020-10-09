@@ -1,24 +1,8 @@
-.container1{text-align: center;
-
+.container1{
+  text-align: center;
 }
 
-
-
-.box1{
-  height: 400px;
-  width: 300px;
-  display: inline-block;
-  position: relative;
-}
-
-.box2{
-  height: 400px;
-  width: 300px;
-  display: inline-block;
-  position: relative;
-}
-
-.box3{
+.box{
   height: 400px;
   width: 300px;
   display: inline-block;
@@ -46,4 +30,8 @@
   position: absolute;
   bottom: 40px;
   left: 50%;
+}
+
+span.cuore:hover{
+  color:white
 }
