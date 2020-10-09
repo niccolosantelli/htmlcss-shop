@@ -1,0 +1,52 @@
+.container1{text-align: center;
+
+}
+
+
+
+.box1{
+  height: 400px;
+  width: 300px;
+  display: inline-block;
+  position: relative;
+}
+
+.box2{
+  height: 400px;
+  width: 300px;
+  display: inline-block;
+  position: relative;
+}
+
+.box3{
+  height: 400px;
+  width: 300px;
+  display: inline-block;
+  position: relative;
+}
+
+.sconto{
+  height: 20px;
+  width: 40px;
+  color: black;
+  position: absolute;
+  top:0;
+  right:0;
+}
+
+.sr{
+  background: red
+}
+
+.sg{
+  background: green
+}
+
+
+
+.cuore{
+
+  position: absolute;
+  bottom:40px;
+  left: 50%;
+}
